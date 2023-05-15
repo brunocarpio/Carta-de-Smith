@@ -1,4 +1,4 @@
-package carta;
+package com.smith.chartapp;
 
 public class Aplicacion {
 

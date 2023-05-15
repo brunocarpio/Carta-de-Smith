@@ -1,4 +1,4 @@
-package carta;
+package com.smith.chartapp;
 
 import javax.swing.JFrame;
 

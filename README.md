@@ -1,7 +1,9 @@
-# La Carta de Smith
+# Carta de Smith
 
-Compilar usando:
+- Compilar:
+`$ ./mvnw clean package`
 
-`$ mvn clean compile assembly:single`
+- Ejecutar:
+`$ java -jar ./target/chart-app*.jar`
 
 ![Imagen Carta](ImagenCarta.png)
